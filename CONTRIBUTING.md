@@ -1,1 +1,1 @@
-This contains instructions for contributing to the project. No one is contributing anything and this should probably have a more formal format.
+Anyone can contribute if they have any idea what this is supposed to be.
